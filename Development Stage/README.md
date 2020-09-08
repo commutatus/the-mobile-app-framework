@@ -3,10 +3,10 @@
 2. [Replacing JSCore Engine with Google's V8 engine. (React Native only)](V8.md)
 3.  [OTA Updates](OTA.md)
 4.  [Codepush (React-Native only)](Codepush.md)
-5.  Setting up the app architecture.
+5.  [Setting up the app architecture](Architecture.md)
 6.  State management
 7.  Keeping the View layer separate from Business Logic.
-8.  UI 101
+8.  [UI 101](UI.md)
 9.  How to build a responsive UI
 10. Force/Optional Updates to the Apps
 11. Performance optimizations
