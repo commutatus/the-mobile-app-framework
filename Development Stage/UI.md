@@ -13,7 +13,9 @@ You should build the UI by following the steps mentioned below:
 
 [comment]: # (Need to add images here. Or should I wait and build the web app directly?!)
 
-Here are a few bonus tips:
+***********
+
+### Here are a few bonus tips:
 - Make sure to provide a visual or an auditory feedback on any instance when user interacts with the app.
   For example: the ripple effect on buttons in android.
 - Implement your designs while keeping the different widths of different devices in mind.
